@@ -1,8 +1,9 @@
-<p align="center">
-  <img src="./github-banner.png" alt="Afia Zahin - Web Developer">
+<h2 align="left">👋 About Me</h2>
+
+<p>
+I'm a Marketing graduate who started learning programming as an extra skill
+and unexpectedly discovered a genuine passion for web development.
 </p>
-<h1 align="center">Hi 👋, I'm Afia Zahin</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 - 🔭 I’m currently working on **building and improving my frontend development skills.**
 
@@ -14,7 +15,7 @@
 
 - 📫 How to reach me **afia.zahin06@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1N2q3_Itl8wRw4Px3FSqDA6yFUQrPj-2c/view?usp=sharing](https://drive.google.com/file/d/1N2q3_Itl8wRw4Px3FSqDA6yFUQrPj-2c/view?usp=sharing)
+- 📄 Know about my experiences **[View My Resume](YOUR_GOOGLE_DRIVE_LINK)**
 
 - ⚡ Fun fact **I’m a Marketing graduate who thought programming would just be an extra skill… turns out, I may have accidentally found a new passion.**
 
