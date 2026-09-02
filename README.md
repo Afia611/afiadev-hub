@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./github-banner.png" alt="Afia Zahin - Web Developer">
+</p>
 <h1 align="center">Hi 👋, I'm Afia Zahin</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
